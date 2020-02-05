@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Bank Marketing Classification"
-date:       2020-02-05 21:31:21 +0000
+date:       2020-02-05 16:31:22 -0500
 permalink:  bank_marketing_classification
 ---
 
